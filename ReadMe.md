@@ -15,6 +15,9 @@ N4 version, win10 does not install.Net 3.5 framework can be used directly
 
 N4 版本，win10 不安装.net 3.5 framework可直接使用
 
+
+> from 作者: 更深入的研究后，使用5月2日的更新的方法可以测量出所有品牌笔记本设置电池充电阈值的方法。
+
 This project is licensed under the GPLv3. See COPYING for details.
 Copyright 2016-2017 XYUU
 
